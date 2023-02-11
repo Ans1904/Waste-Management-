@@ -10,4 +10,5 @@ Firebase has been used for authentication purpose(captcha).
 
 Screenshots attached:
 
-![image](https://user-images.githubusercontent.com/66294660/216886463-27404f5c-b025-47ea-bdb6-f1a88c58533b.png)
+<!-- ![image](https://user-images.githubusercontent.com/66294660/216886463-27404f5c-b025-47ea-bdb6-f1a88c58533b.png) -->
+<img src="https://user-images.githubusercontent.com/66294660/216886463-27404f5c-b025-47ea-bdb6-f1a88c58533b.png" height="600px" width="300px"/>
